@@ -1,10 +1,8 @@
-# 👋 Hi, I’m @crls-mrtns
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m **Carlos Martins**
+- 🌱 I’m currently learning **Game development**
+- 📫 How to reach me **cedsm.snf20@uea.edu.br**
 
 <!---
-crls-mrtns/crls-mrtns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+carlosmartins-23/carlosmartins-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
